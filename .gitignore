@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+ZET-debug.log
+cert.pem
+key.pem
+.env
+.env.*
+.idea/
+.vscode/
+_remote_check/
